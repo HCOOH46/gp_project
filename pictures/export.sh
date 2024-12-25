@@ -1,0 +1,1 @@
+jupyter nbconvert --to slides slides.ipynb --output-dir=../
